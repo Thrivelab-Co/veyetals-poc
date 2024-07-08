@@ -6,8 +6,8 @@ const Veyetals = ({showUI}: {showUI: boolean}) => {
     console.log('onComplete', data);
   }
 
-  const userId = 'user-id';
-  const channelId = 'channel-id';
+  const userId = 'test-user-id';
+  const channelId = 'THRIVE_LABS';
 
   return (
     <VeyetalsView

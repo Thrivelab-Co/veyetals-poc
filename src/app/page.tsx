@@ -22,7 +22,7 @@ export default function Home() {
       )}
       <div className="flex flex-col items-center space-y-4">
         <p className="text-lg text-center">
-          This is a proof of concept for Thrivelabs.
+          This is a proof of concept for Thrivelab.
         </p>
       </div>
 
