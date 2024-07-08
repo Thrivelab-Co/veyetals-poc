@@ -14,7 +14,7 @@ export default function Home() {
       <h1 className="text-5xl font-bold text-center">
         Welcome to Thrivelabs POC
       </h1>
-      { showUI && <Veyetals showUI={showUI}/> }
+      { showUI && <Veyetals /> }
       { !showUI && (
         <button className="p-4 rounded bg-indigo-400 cursor-pointer" onClick={handleClick}>
           Start by clicking here
