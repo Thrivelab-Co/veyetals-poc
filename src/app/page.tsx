@@ -29,6 +29,10 @@ export default function Home() {
           <p className="text-lg text-center">
             This is a proof of concept for Thrivelab.
           </p>
+          <pre>
+            {/* eslint-disable-next-line react/no-unescaped-entities */}
+            "@veyetals/react-veyetals-view": "^1.4.2"
+          </pre>
         </div>
       </view>
     );
