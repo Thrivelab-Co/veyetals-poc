@@ -10,8 +10,8 @@
     "postinstall": "./scripts/copy-veyetals-models.sh"
   },
   "dependencies": {
-    "@veyetals/react-veyetals-view": "^1.4.2",
-    "next": "14.2.4",
+    "@veyetals/react-veyetals-view": "^1.4.4",
+    "next": "^14.2.12",
     "react": "^18",
     "react-dom": "^18"
   },

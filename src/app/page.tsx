@@ -31,7 +31,7 @@ export default function Home() {
           </p>
           <pre>
             {/* eslint-disable-next-line react/no-unescaped-entities */}
-            "@veyetals/react-veyetals-view": "^1.4.2"
+            "@veyetals/react-veyetals-view": "^1.4.4"
           </pre>
         </div>
       </view>
